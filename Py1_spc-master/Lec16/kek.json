@@ -1,0 +1,13 @@
+{
+    "name": "Bob",
+    "lastname": "London",
+    "age": 23,
+    "balance": 12400.5,
+    "sex": true,
+    "items": [
+        "item1",
+        "item2",
+        "item3"
+    ],
+    "hasCar": null
+}
